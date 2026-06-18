@@ -86,3 +86,6 @@ GitHub → AWS CodePipeline → AWS CodeBuild → Amazon ECR → Amazon ECS Farg
 •	CI/CD automation using CodeBuild and CodePipeline \
 •	GitHub integration with AWS services \
 •	Infrastructure deployment workflow 
+
+## Future Enhancements
+• In production, this EC2 build server would typically be private and accessed through SSM.
